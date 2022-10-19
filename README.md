@@ -3,6 +3,8 @@ AACL 2022 - Some Languages are More Equal than Others : Probing Deeper into the 
 
 Please use "Generate Diagrams.ipynb" as the main file 
 
+**********************************************************
+
 Before starting to run the code, navigate to the [Google drive link](https://drive.google.com/file/d/1CFCzNGlTls0H-Zcaem4Hg_ETj4ebhcDO/view) and add 'acl-publication-info.74k.parquet' to your Input folder. You do not have to download the file. Adding a link is sufficient.
 
 **********************************************************
