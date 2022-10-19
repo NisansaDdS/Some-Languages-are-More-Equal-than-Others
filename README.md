@@ -16,3 +16,14 @@ Before starting to run the code, navigate to the [Google drive link](https://dri
 **********************************************************
 
 Please use `Generate Diagrams.ipynb` as the main file 
+
+## Citing this work
+
+    @misc{ranathunga2022languages,
+       title={Some Languages are More Equal than Others: Probing Deeper into the Linguistic Disparity in the NLP World},
+       author={Surangika Ranathunga and Nisansa de Silva},
+       year={2022},
+       eprint={2210.08523},
+       archivePrefix={arXiv},
+       primaryClass={cs.CL}
+    }
