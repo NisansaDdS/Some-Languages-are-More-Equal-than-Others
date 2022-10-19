@@ -1,0 +1,200 @@
+Non-ingredient Detection in User-generated Recipes using the Sequence Tagging Approach
+{DART}: A Lightweight Quality-Suggestive Data-to-Text Annotation Tool
+Studying the Impact of Filling Information Gaps on the Output Quality of Neural Data-to-Text
+{P}ho{BERT}: Pre-trained language models for {V}ietnamese
+A Human Evaluation of {AMR}-to-{E}nglish Generation Systems
+Efficient Context and Schema Fusion Networks for Multi-Domain Dialogue State Tracking
+Extractive Summarization System for Annual Reports
+Document-aligned {J}apanese-{E}nglish Conversation Parallel Corpus
+Bilingual Lexicon Induction across Orthographically-distinct Under-Resourced {D}ravidian Languages
+Closing the Gap: Joint De-Identification and Concept Extraction in the Clinical Domain
+{S}ci{REX}: {A} Challenge Dataset for Document-Level Information Extraction
+Dedicated Language Resources for Interdisciplinary Research on Multiword Expressions: Best Thing since Sliced Bread
+Building The First {E}nglish-{B}razilian {P}ortuguese Corpus for Automatic Post-Editing
+Combining Representations For Effective Citation Classification
+{CHIME}: Cross-passage Hierarchical Memory Network for Generative Review Question Answering
+Do You Believe It Happened? Assessing {C}hinese Readers{'} Veridicality Judgments
+Exploring Pair-Wise {NMT} for {I}ndian Languages
+Evaluation of Argument Search Approaches in the Context of Argumentative Dialogue Systems
+Bagging {BERT} Models for Robust Aggression Identification
+{INFOTABS}: Inference on Tables as Semi-structured Data
+Exploring Online Depression Forums via Text Mining: A Comparison of {R}eddit and a Curated Online Forum
+{P}ublish{I}n{C}ovid19 at {WNUT} 2020 Shared Task-1: Entity Recognition in Wet Lab Protocols using Structured Learning Ensemble and Contextualised Embeddings
+ex{BERT}: Extending Pre-trained Models with Domain-specific Vocabulary Under Constrained Training Resources
+Modality-Transferable Emotion Embeddings for Low-Resource Multimodal Emotion Recognition
+The Limitations of Stylometry for Detecting Machine-Generated Fake News
+Developing an {A}rabic Infectious Disease Ontology to Include Non-Standard Terminology
+{COPECO}: a Collaborative Post-Editing Corpus in Pedagogical Context
+A {F}rench Corpus for Event Detection on {T}witter
+{PTSVOX} : une base de donn{\'e}es pour la comparaison de voix dans le cadre judiciaire ({PTSVOX} : a Speech Database for Forensic Voice Comparison )
+Slice-Aware Neural Ranking
+A Dataset for Linguistic Understanding, Visual Evaluation, and Recognition of Sign Languages: The K-{RSL}
+A Joint Learning Approach based on Self-Distillation for Keyphrase Extraction from Scientific Documents
+Nontrivial Lexical Convergence in a Geography-Themed Game
+Design of {BCCWJ}-{EEG}: Balanced Corpus with Human Electroencephalography
+Facet-Aware Evaluation for Extractive Summarization
+Towards a Versatile Medical-Annotation Guideline Feasible Without Heavy Medical Knowledge: Starting From Critical Lung Diseases
+{L}in{CE}: A Centralized Benchmark for Linguistic Code-switching Evaluation
+Emerging Cross-lingual Structure in Pretrained Language Models
+Applications of Natural Language Processing in Bilingual Language Teaching: An {I}ndonesian-{E}nglish Case Study
+{SLICE}: Supersense-based Lightweight Interpretable Contextual Embeddings
+Plug-and-Play Conversational Models
+problem{C}onquero at {S}em{E}val-2020 Task 12: Transformer and Soft Label-based Approaches
+Neural Topic Modeling by Incorporating Document Relationship Graph
+Generation of lyrics lines conditioned on music audio clips
+Lexically Constrained Neural Machine Translation with {L}evenshtein Transformer
+Enhancing Machine Translation with Dependency-Aware Self-Attention
+Exploring and Evaluating Attributes, Values, and Structures for Entity Alignment
+Exploring Versatile Generative Language Model Via Parameter-Efficient Transfer Learning
+Extracting Fine-Grained Economic Events from Business News
+Annotating Verbal {MWE}s in {I}rish for the {PARSEME} Shared Task 1.2
+Do Explicit Alignments Robustly Improve Multilingual Encoders?
+基于语料库的武侠与仙侠网络小说文体、词汇及主题对比分析(A Corpus-based Contrastive Analysis of Style, Vocabulary and Theme of Wuxia and Xianxia {I}nternet Novels)
+{``}Who said it, and Why?{''} Provenance for Natural Language Claims
+Federated Learning for Spoken Language Understanding
+To compress or not to compress? A Finite-State approach to {N}en verbal morphology
+Layout-Aware Text Representations Harm Clustering Documents by Type
+Table Fact Verification with Structure-Aware Transformer
+{ZPR}2: Joint Zero Pronoun Recovery and Resolution using Multi-Task Learning and {BERT}
+Cold-Start and Interpretability: Turning Regular Expressions into Trainable Recurrent Neural Networks
+Selection of {MT} Systems in Translation Workflows
+{C}oming to {T}erms: {A}utomatic {F}ormation of {N}eologisms in {H}ebrew
+{R}o{FT}: A Tool for Evaluating Human Detection of Machine-Generated Text
+Model-based Annotation of Coreference
+{N}epali Speech Recognition Using {CNN}, {GRU} and {CTC}
+Fine-grained Fact Verification with Kernel Graph Attention Network
+Corr{\'e}lats acoustiques et perceptifs de la personnalit{\'e} per{\c{c}}ue {\`a} travers la voix dans une population de dysphoniques l{\'e}g{\`e}res (Acoustical and perceptual correlates of perceived personality through voice in minor dysphonia)
+On Faithfulness and Factuality in Abstractive Summarization
+Proceedings of the Workshop on Intelligent Information Processing and Natural Language Generation
+How Users React to Proactive Voice Assistant Behavior While Driving
+Identifying Personal Experience Tweets of Medication Effects Using Pre-trained {R}o{BERT}a Language Model and Its Updating
+{MT} Quality Estimator - {QUEST}
+Modeling Dialogue in Conversational Cognitive Health Screening Interviews
+{C}hinese Named Entity Recognition via Adaptive Multi-pass Memory Network with Hierarchical Tagging Mechanism
+{WUY} at {S}em{E}val-2020 Task 7: Combining {BERT} and Naive {B}ayes-{SVM} for Humor Assessment in Edited News Headlines
+{C}o{V}o{ST}: A Diverse Multilingual Speech-To-Text Translation Corpus
+Language to Network: Conditional Parameter Adaptation with Natural Language Descriptions
+Constructing {U}yghur Name Entity Recognition System using Neural Machine Translation Tag Projection
+Low-Resource Translation as Language Modeling
+Enhancing Cross-target Stance Detection with Transferable Semantic-Emotion Knowledge
+On Extractive and Abstractive Neural Document Summarization with Transformer Language Models
+Naver Labs {E}urope{'}s Participation in the Robustness, Chat, and Biomedical Tasks at {WMT} 2020
+Building {K}orean {A}bstract {M}eaning {R}epresentation Corpus
+{A}rabic {NLG} Language Functions
+Proceedings of the Ninth Joint Conference on Lexical and Computational Semantics
+The Transference Architecture for Automatic Post-Editing
+{P}uzz{L}ing {M}achines: {A} {C}hallenge on {L}earning {F}rom {S}mall {D}ata
+A Corpus of {G}erman {R}eddit Exchanges ({G}e{R}ed{E})
+{YNU}-{HPCC} at {S}em{E}val-2020 Task 10: Using a Multi-granularity Ordinal Classification of the {B}i{LSTM} Model for Emphasis Selection
+A Unified {MRC} Framework for Named Entity Recognition
+Learning Web-based Procedures by Reasoning over Explanations and Demonstrations in Context
+The {C}hilean Waiting List Corpus: a new resource for clinical Named Entity Recognition in {S}panish
+{CDCPP}:跨领域中文标点符号预测({CDCPP}: Cross-Domain {C}hinese Punctuation Prediction)
+Data-Efficient Paraphrase Generation to Bootstrap Intent Classification and Slot Labeling for New Features in Task-Oriented Dialog Systems
+Normalizing Compositional Structures Across Graphbanks
+Are Scene Graphs Good Enough to Improve Image Captioning?
+Predicting Ratings of Real Dialogue Participants from Artificial Data and Ratings of Human Dialogue Observers
+Homonym normalisation by word sense clustering: a case in {J}apanese
+{S}ki{F} Maker : un processus de classement du meilleur talent par rapport {\`a} une offre de mission ({S}ki{F} Maker : a process for ranking the best talent in relation to an assignment offer)
+A Survey of the State of Explainable {AI} for Natural Language Processing
+Controllable Abstractive Sentence Summarization with Guiding Entities
+Exploring {A}mharic Sentiment Analysis from Social Media Texts: Building Annotation Tools and Classification Models
+Does a Hybrid Neural Network based Feature Selection Model Improve Text Classification?
+An Imitation Game for Learning Semantic Parsers from User Interaction
+{VICTOR}: a Dataset for {B}razilian Legal Documents Classification
+Inducing Interpretability in Knowledge Graph Embeddings
+Unmasking Contextual Stereotypes: Measuring and Mitigating {BERT}{'}s Gender Bias
+Finding {F}riends and Flipping Frenemies: Automatic Paraphrase Dataset Augmentation Using Graph Theory
+{S}em{E}val-2020 Task 3: Graded Word Similarity in Context
+Byte Pair Encoding is Suboptimal for Language Model Pretraining
+Towards {C}ontrollable {B}iases in {L}anguage {G}eneration
+{SAS}: Dialogue State Tracking via Slot Attention and Slot Information Sharing
+{S}implify{UR}: Unsupervised Lexical Text Simplification for {U}rdu
+Multilingual Pre-Trained Transformers and Convolutional {NN} Classification Models for Technical Domain Identification
+Multi-task Learning of Spoken Language Understanding by Integrating N-Best Hypotheses with Hierarchical Attention
+{POINTER}: Constrained Progressive Text Generation via Insertion-based Generative Pre-training
+Single Model Ensemble using Pseudo-Tags and Distinct Vectors
+Proceedings of the LREC2020 9th Workshop on the Representation and Processing of Sign Languages: Sign Language Resources in the Service of the Language Community, Technological Challenges and Application Perspectives
+Unsupervised Deep Language and Dialect Identification for Short Texts
+Regrexit or not Regrexit: Aspect-based Sentiment Analysis in Polarized Contexts
+Frustratingly Hard Evidence Retrieval for {QA} Over Books
+Fine-Tuning {MT} systems for Robustness to Second-Language Speaker Variations
+Neural Graph Matching Networks for {C}hinese Short Text Matching
+Adaptation of Word-Level Benchmark Datasets for Relation-Level Metaphor Identification
+Evaluation of {G}reek Word Embeddings
+Handle with Care: A Case Study in Comparable Corpora Exploitation for Neural Machine Translation
+Pseudo-Bidirectional Decoding for Local Sequence Transduction
+Measuring Information Propagation in Literary Social Networks
+Abstractive Text Summarization based on Language Model Conditioning and Locality Modeling
+Incorporating Temporal Information in Entailment Graph Mining
+{D}o{QA} - Accessing Domain-Specific {FAQ}s via Conversational {QA}
+A Cross-Task Analysis of Text Span Representations
+Self Attended Stack-Pointer Networks for Learning Long Term Dependencies
+Sparse Optimization for Unsupervised Extractive Summarization of Long Documents with the Frank-Wolfe Algorithm
+Content Word Aware Neural Machine Translation
+A Sentence Cloze Dataset for {C}hinese Machine Reading Comprehension
+Cross-Lingual Document Retrieval with Smooth Learning
+Cross-lingual Transfer Learning for {COVID-19} Outbreak Alignment
+{SEMA}: Text Simplification Evaluation through Semantic Alignment
+Speech Corpus of {A}inu Folklore and End-to-end Speech Recognition for {A}inu Language
+Infrastructure for Semantic Annotation in the Genomics Domain
+Direct Segmentation Models for Streaming Speech Translation
+A Complete Shift-Reduce {C}hinese Discourse Parser with Robust Dynamic Oracle
+Demonstration of a Literature Based Discovery System based on Ontologies, Semantic Filters and Word Embeddings for the Raynaud Disease-Fish Oil Rediscovery
+Improving Out-of-Scope Detection in Intent Classification by Using Embeddings of the Word Graph Space of the Classes
+Ensemble {D}istillation for {S}tructured {P}rediction: {C}alibrated, {A}ccurate, {F}ast{---}{C}hoose {T}hree
+Joint Learning of Syntactic Features Helps Discourse Segmentation
+Proceedings of the 1st Workshop on Tools and Resources to Empower People with REAding DIfficulties (READI)
+{T}urku Enhanced Parser Pipeline: From Raw Text to Enhanced Graphs in the {IWPT} 2020 Shared Task
+{TIARA}: A Tool for Annotating Discourse Relations and Sentence Reordering
+Zero-shot cross-lingual identification of direct speech using distant supervision
+A Parallel Evaluation Data Set of Software Documentation with Document Structure Annotation
+Target Word Masking for Location Metonymy Resolution
+Sprucing up Supersenses: Untangling the Semantic Clusters of Accompaniment and Purpose
+伟大的男人和倔强的女人:基于语料库的形容词性别偏度历时研究(Great Males and Stubborn Females: A Diachronic Study of Corpus-Based Gendered Skewness in {C}hinese Adjectives)
+A Term Extraction Approach to Survey Analysis in Health Care
+{P}atch{BERT}: Just-in-Time, Out-of-Vocabulary Patching
+In Data We Trust: A Critical Analysis of Hate Speech Detection Datasets
+Multilingualization of Medical Terminology: Semantic and Structural Embedding Approaches
+Interactive Question Clarification in Dialogue via Reinforcement Learning
+{NUIG} at {TIAD}: Combining Unsupervised {NLP} and Graph Metrics for Translation Inference
+Convolutional and Recurrent Neural Networks for Spoken Emotion Recognition
+{NTUNLPL} at {F}in{C}ausal 2020, Task 2:Improving Causality Detection Using {V}iterbi Decoder
+Detecting Word Sense Disambiguation Biases in Machine Translation for Model-Agnostic Adversarial Attacks
+Reading Between the Lines: Exploring Infilling in Visual Narratives
+Domain-Specific Sentiment Lexicons Induced from Labeled Documents
+{T}able{B}ank: Table Benchmark for Image-based Table Detection and Recognition
+Multichannel {G}enerative {L}anguage {M}odel: {L}earning {A}ll {P}ossible {F}actorizations {W}ithin and {A}cross {C}hannels
+Virtual Citation Proximity ({VCP}): Empowering Document Recommender Systems by Learning a Hypothetical In-Text Citation-Proximity Metric for Uncited Documents
+Call My Net 2: A New Resource for Speaker Recognition
+{ALT} at {S}em{E}val-2020 Task 12: {A}rabic and {E}nglish Offensive Language Identification in Social Media
+Compressing Transformer-Based Semantic Parsing Models using Compositional Code Embeddings
+Incorporating Multimodal Information in Open-Domain Web Keyphrase Extraction
+Automatically Ranked {R}ussian Paraphrase Corpus for Text Generation
+Examination and Extension of Strategies for Improving Personalized Language Modeling via Interpolation
+The importance of fillers for text representations of speech transcripts
+{ANA} at {S}em{E}val-2020 Task 4: {MU}lti-task lear{NI}ng for c{O}mmonsense reaso{N}ing ({UNION})
+Palomino-Ochoa at {S}em{E}val-2020 Task 9: Robust System Based on Transformer for Code-Mixed Sentiment Classification
+Populating Legal Ontologies using Semantic Role Labeling
+Don{'}t Patronize Me! An Annotated Dataset with Patronizing and Condescending Language towards Vulnerable Communities
+Bridging the Gap in Multilingual Semantic Role Labeling: a Language-Agnostic Approach
+A Computational Grammar of {G}a
+Towards Mitigating Gender Bias in a decoder-based Neural Machine Translation model by Adding Contextual Information
+{Q}iao{N}ing at {S}em{E}val-2020 Task 4: Commonsense Validation and Explanation System Based on Ensemble of Language Model
+Actes de la 6e conf{\'e}rence conjointe Journ{\'e}es d'{\'E}tudes sur la Parole (JEP, 33e {\'e}dition), Traitement Automatique des Langues Naturelles (TALN, 27e {\'e}dition), Rencontre des {\'E}tudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (R{\'E}CITAL, 22e {\'e}dition). Atelier D{\'E}fi Fouille de Textes
+基于{BERT}的端到端中文篇章事件抽取(A {BERT}-based End-to-End Model for {C}hinese Document-level Event Extraction)
+An Empirical Study of Contextual Data Augmentation for {J}apanese Zero Anaphora Resolution
+Second-Order {NLP} Adversarial Examples
+rr{SDS}: Towards a Robot-ready Spoken Dialogue System
+Uralic Language Identification ({ULI}) 2020 shared task dataset and the Wanca 2017 corpora
+Analysis of Online Conversations to Detect Cyberpredators Using Recurrent Neural Networks
+{T}heme{P}ro: A Toolkit for the Analysis of Thematic Progression
+Development of Multi-level Linguistic Alignment in Child-adult Conversations
+A Joint Deep Contextualized Word Representation for Deep Biaffine Dependency Parsing
+Style Analysis of Argumentative Texts by Mining Rhetorical Devices
+The Machine is Blind: Bottom-Up Feedback on the Impact of {MT} on Human Translation Performance
+Building Hierarchically Disentangled Language Models for Text Generation with Named Entities
+The {F}in{S}im 2020 Shared Task: Learning Semantic Representations for the Financial Domain
+Modeling Subjective Assessments of Guilt in Newspaper Crime Narratives
+A Study in Improving {BLEU} Reference Coverage with Diverse Automatic Paraphrasing
+Bipartite Flat-Graph Network for Nested Named Entity Recognition
