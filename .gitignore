@@ -1,3 +1,6 @@
 
 Data/Input/acl-publication-info.74k.parquet
 Data/Input/macrolanguages.tsv
+Data/Input/anthology.bib
+Data/Input/anthology.bib.gz
+Data/Input/anthology.bib

@@ -1,0 +1,145 @@
+text-classification
+question-answering
+text-generation
+token-classification
+translation
+text2text-generation
+fill-mask
+text-retrieval
+conditional-text-generation
+summarization
+sequence-modeling
+multiple-choice
+other
+zero-shot-classification
+tabular-classification
+table-question-answering
+structure-prediction
+information-retrieval
+zero-shot-retrieval
+zero-shot-information-retrieval
+image-classification
+automatic-speech-recognition
+speech-processing
+conversational
+audio-classification
+image-to-text
+question-generation
+sentence-similarity
+text-scoring
+object-detection
+data-to-text
+classification
+dialog-response-generation
+text-mining
+paraphrase-mining
+image-segmentation
+simplification
+named-entity-recognition
+sentiment-analysis
+machine-translation
+feature-extraction
+visual-question-answering
+tabular-to-text
+table-to-text
+text_classification
+time-series-forecasting
+paraphrase
+computer-vision
+symbolic-regression
+topic modeling
+one liner summary
+email subject
+meeting title
+other-text-to-structured
+reasoning
+paraphrasing
+other-test
+code-generation
+long-texts
+tts
+image
+image-retrieval
+image-captioning
+language-modelling
+masked-auto-encoding
+rendered-language-modelling
+video-captionning
+neural-machine-translation
+extractive-qa
+text-generation-other-common-sense-inference
+text-generation-other-discourse-analysis
+other-text-to-tabular
+text-generation-other-code-modeling
+other-text-search
+Code Generation
+Translation
+Text2Text generation
+text-to-slide
+question-pairing
+Information Retrieval
+Semantic Search
+Evaluation of language models
+masked-language-modeling
+multi-class classification
+topic-classification
+patents
+paraphrase detection
+Summarization
+cross-language-transcription
+language-modeling
+grammatical error correction
+named-entity-disambiguation
+textual-entailment
+natural-language-inference
+query-paraphrasing
+machine translation
+text-regression
+entity-extraction
+unpaired-image-to-image-translation
+generative-modelling
+Token Classification
+caption-retrieval
+gpt-3
+crowdsourced
+sequence2sequence
+Inclusive Language
+Text Neutralization
+text-to-speech
+question_answering
+super-resolution
+image-enhancement
+speech-synthesis
+data-integration
+Language-model
+Automatic-Speech-Recognition
+influence-attribution
+question-answering-retrieval
+text
+linear-regression
+syntactic-evaluation
+deduplication
+sequence-modelling
+abstractive-qa
+closed-domain-abstrative-qa
+commonsense-reasoning
+moral-reasoning
+social-reasoning
+coreference resolution
+commonsense reasoning
+text-understanding
+text-comprehension
+natural-language-understanding
+natural-language-generation
+text-to-image
+image-to-image
+MultiLabel Text Classification
+commonsense-generation
+open-dialogue
+story-generation
+task-dialogue
+style-transfer
+text classification
+text tagging
+named entity recognition
+image-generation

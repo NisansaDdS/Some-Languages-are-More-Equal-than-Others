@@ -1,200 +1,200 @@
-Towards Event Extraction from Full Texts on Infectious Diseases
-{S}emantic{N}et-Perception of Human Pragmatics
-{C}hinese Syntactic Reordering through Contrastive Analysis of Predicate-predicate Patterns in {C}hinese-to-{K}orean {SMT}
-Integrating Machine Translation with Translation Memory: A Practical Approach
-Informed ways of improving data-driven dependency parsing for {G}erman
-Connective-Based Measuring of the Inter-Annotator Agreement in the Annotation of Discourse in {PDT}
-Improving Proper Name Recognition by Adding Automatically Learned Pronunciation Variants to the Lexicon
-Merging Specialist Taxonomies and Folk Taxonomies in Wordnets - A case Study of Plants, Animals and Foods in the {D}anish {W}ordnet
-Resources for Calendar Expressions Semantic Tagging and Temporal Navigation through Texts
-A Paradigm-Based Finite State Morphological Analyzer for {M}arathi
-Automatic Discovery of Manner Relations and its Applications
-Using Domain Knowledge about Medications to Correct Recognition Errors in Medical Report Creation
-Scaling up Biomedical Event Extraction to the Entire {P}ub{M}ed
-The {UPV}-{PRHLT} Combination System for {WMT} 2010
-Estimating Linear Models for Compositional Distributional Semantics
-Storing the Web in Memory: Space Efficient Language Models with Constant Time Retrieval
-A Description of Morphological Features of {S}erbian: a Revision using Feature System Declaration
-Expanding textual entailment corpora from{W}ikipedia using co-training
+Influence of Pre-Annotation on {POS}-Tagged Corpus Development
+The Use of Formal Language Models in the Typology of the Morphology of Amerindian Languages
+Data-Driven Parsing with Probabilistic Linear Context-Free Rewriting Systems
+{M}ed{E}val- A {S}wedish Medical Test Collection with Doctors and Patients User Groups
+@{AM}: Textual Attitude Analysis Model
+Disambiguating Compound Nouns for a Dynamic {HPSG} Treebank of {W}all {S}treet {J}ournal Texts
+Deep Syntax Language Models and Statistical Machine Translation
+Annotation Tool for Discourse in {PDT}
+{BUAP}: An Unsupervised Approach to Automatic Keyphrase Extraction from Scientific Articles
+Phylogenetic Grammar Induction
+The {T}ermi{N}et Project: an Overview
+La phras{\'e}ologie en langue, en dictionnaire et en {TALN}
+Distributional Semantic Models
+Language Identification: The Long and the Short of the Matter
+Unsupervised Induction of Semantic Roles
+Broad Coverage Multilingual Deep Sentence Generation with a Stochastic Multi-Level Realizer
+{SWAT}: Cross-Lingual Lexical Substitution using Local Context Matching, Bilingual Dictionaries and Machine Translation
+{ISCAS}: A System for {C}hinese Word Sense Induction Based on K-means Algorithm
+Evaluation Protocol and Tools for Question-Answering on Speech Transcripts
+Extraction, Merging, and Monitoring of Company Data from Heterogeneous Sources
+Cross-Language Text Classification Using Structural Correspondence Learning
+Constructing and Using Broad-coverage Lexical Resource for Enhancing Morphological Analysis of {A}rabic
 Creating Local Coherence: An Empirical Assessment
-Computing {EM}-based Alignments of Routes and Route Directions as a Basis for Natural Language Generation
-Identifying and Ranking Topic Clusters in the Blogosphere
-An Introduction to Machine Translation
-Better Punctuation Prediction with Dynamic Conditional Random Fields
-Proceedings of the 4th Workshop on Syntax and Structure in Statistical Translation
-The Effect of Ambiguity on the Automated Acquisition of {WSD} Examples
-Topic Models for Word Sense Disambiguation and Token-Based Idiom Detection
-Towards an Automatic Measurement of Verbal Lexicon Acquisition: The Case for a Young Children-versus-Adults Classification in {F}rench and {M}andarin
-Enhancing Morphological Alignment for Translating Highly Inflected Languages
-Improved Statistical Machine Translation with Hybrid Phrasal Paraphrases Derived from Monolingual Text and a Shallow Lexical Resource
-Using Linear Interpolation and Weighted Reordering Hypotheses in the {M}oses System
-Potential scope of a fully-integrated architecture for speech translation
-Computational Creativity Tools for Songwriters
-Content Quality for Better {MT}: A Practical Guide to Quality at the Source
-Meta-Knowledge Annotation of Bio-Events
-Application of the Tightness Continuum Measure to {C}hinese Information Retrieval
-A Data Mining Approach to Learn Reorder Rules for {SMT}
-Syntactically Complex Demonstratives and Sortal Inherency
-{F}ast{K}wic, an {``}Intelligent{``} Concordancer Using {FASTR}
-Developing Morphological Analysers for {S}outh {A}sian Languages: Experimenting with the {H}indi and {G}ujarati Languages
-Capturing Nonlinear Structure in Word Spaces through Dimensionality Reduction
-A Linguistic Resource for Semantic Parsing of Motion Events
-Unsupervised Induction of Tree Substitution Grammars for Dependency Parsing
-A Twin-Candidate Based Approach for Event Pronoun Resolution using Composite Kernel
-Improving {A}rabic-to-{E}nglish Statistical Machine Translation by Reordering Post-Verbal Subjects for Alignment
-{HR}-{WSD}: System Description for All-Words Word Sense Disambiguation on a Specific Domain at {S}em{E}val-2010
-A {L}atent {D}irichlet {A}llocation Method for Selectional Preferences
-Book Review: Natural Language Processing with Python by Steven Bird, Ewan {K}lein, and Edward Loper
-International Journal of Computational Linguistics {\&} {C}hinese Language Processing, Volume 15, Number 3-4, September/{D}ecember 2010
-Enhancing Language Resources with Maps
-Standardizing Complex Functional Expressions in {J}apanese Predicates: Applying Theoretically-Based Paraphrasing Rules
-{OWNS}: Cross-lingual Word Sense Disambiguation Using Weighted Overlap Counts and {W}ordnet Based Similarity Measures
-The Deep Re-Annotation in a {C}hinese Scientific Treebank
-An Annotation Schema for Preposition Senses in {G}erman
-Information Extraction of Multiple Categories from Pathology Reports
-Modeling Socio-Cultural Phenomena in Discourse
-Can Syntactic and Logical Graphs help Word Sense Disambiguation?
-Ponctuations fortes abusives
-An Integrated Tool for Annotating Historical Corpora
-Proceedings of the 6th Workshop on {O}ntologies and {L}exical {R}esources
-Using Sublexical Translations to Handle the {OOV} Problem in {MT}
-Th{\'e}saurus et corpus de sp{\'e}cialit{\'e} sciences du langage : approches lexicom{\'e}triques appliqu{\'e}es {\`a} l{'}analyse de termes en corpus
-A Corpus-based Method for Extracting Paraphrases of Emotion Terms
-A {B}ayesian Method for Robust Estimation of Distributional Similarities
-Optimising Information Presentation for Spoken Dialogue Systems
-Extracting Distinctive Features of Swine ({H}1{N}1) Flu through Data Mining Clinical Documents
-Finding the Storyteller: Automatic Spoiler Tagging using Linguistic Cues
-Moz: Translation of Structured Terminology-Rich Text
-Towards Identifying Unresolved Discussions in Student Online Forums
-Multimodal {R}ussian Corpus ({MURCO}): First Steps
-{SIN}otas: the Evaluation of a {NLG} Application
-Towards a Programmable Instrumented Generator
-Identifying Opinion Holders and Targets with Dependency Parser in {C}hinese News Texts
-Traduction de requ{\^e}tes bas{\'e}e sur Wikip{\'e}dia
-Bigorna {--} A Toolkit for Orthography Migration Challenges
-Ngram Search Engine with Patterns Combining Token, {POS}, Chunk and {NE} Information
-Semantic vs. Syntactic vs. N-gram Structure for Machine Translation Evaluation
-{H}eidel{T}ime: High Quality Rule-Based Extraction and Normalization of Temporal Expressions
-{P}od{C}astle: A Spoken Document Retrieval Service Improved by Anonymous User Contributions
-Learning Web Query Patterns for Imitating {W}ikipedia Articles
-{``}cba to check the spelling{''}: Investigating Parser Performance on Discussion Forum Posts
-Hybrid Decoding: Decoding with Partial Hypotheses Combination over Multiple {SMT} Systems
-{SCHWA}: {PETE} Using {CCG} Dependencies with the {C{\&}C} Parser
-{MLIF} : A Metamodel to Represent and Exchange Multilingual Textual Information
-Automatically Identifying the Source Words of Lexical Blends in {E}nglish
-K-means and Graph-based Approaches for {C}hinese Word Sense Induction Task
-Language identification of names with {SVM}s
-Data Preparation for Machine Translation Customization
-A Database for the Exploration of {S}panish Planning
-Temporal Information Processing of a New Language: Fast Porting with Minimal Resources
-Applying Syntactic, Semantic and Discourse Constraints in {C}hinese Temporal Annotation
-Importance of negations and experimental qualifiers in biomedical literature
-Generating {F}rame{N}ets of Various Granularities: The {F}rame{N}et Transformer
-Dependency Parsing and Projection Based on Word-Pair Classification
-Active Semi-Supervised Learning for Improving Word Alignment
-Probabilistic Frame-Semantic Parsing
-Meaning Representation: From Continuity to Discreteness
-{P}ack{P}lay: Mining Semantic Data in Collaborative Games
-Towards Optimal {TTS} Corpora
-Comparing {S}anskrit Texts for Critical Editions
-Predicting Morphological Types of {C}hinese Bi-Character Words by Machine Learning Approaches
-Annotation Scheme and Gold Standard for {D}utch Subjective Adjectives
-A Fast Fertility Hidden {M}arkov Model for Word Alignment Using {MCMC}
-Recognizing Medication related Entities in Hospital Discharge Summaries using Support Vector Machine
-A Joint Rule Selection Model for Hierarchical Phrase-Based Translation
-Exploiting Salient Patterns for Question Detection and Question Retrieval in Community-based Question Answering
-{HHMM} Parsing with Limited Parallelism
-{UCD}-Goggle: A Hybrid System for Noun Compound Paraphrasing
-Streaming Cross Document Entity Coreference Resolution
-{F}ips{C}olor : grammaire en couleur interactive pour l{'}apprentissage du fran{\c{c}}ais
-Cross-Corpus Textual Entailment for Sublanguage Analysis in Epidemic Intelligence
-On the Role of {NLP} in Linguistics
-Good Question! Statistical Ranking for Question Generation
-Proceedings of Translating and the Computer 32
-Towards Improving {E}nglish-{L}atvian Translation: A System Comparison and a New Rescoring Feature
-Actes de la 17e conf{\'e}rence sur le Traitement Automatique des Langues Naturelles. REncontres jeunes Chercheurs en Informatique pour le Traitement Automatique des Langues
-Une approche paresseuse de l{'}analyse s{\'e}mantique ou comment construire une interface syntaxe-s{\'e}mantique {\`a} partir d{'}exemples
-String-to-Dependency Statistical Machine Translation
-Unsupervised Part of Speech Tagging Using Unambiguous Substitutes from a Statistical Language Model
-Combining Dictionaries and Contextual Information for Cross-Lingual Lexical Substitution
-Evaluation of Document Citations in Phase 2 Gale Distillation
-The Impact of Interpretation Problems on Tutorial Dialogue
-Bridging {SMT} and {TM} with Translation Recommendation
-{``}Expresses-an-opinion-about{''}: using corpus statistics in an information extraction approach to opinion mining
-Finding Medical Term Variations using Parallel Corpora and Distributional Similarity
-Open Information Extraction Using {W}ikipedia
-R{\'e}sum{\'e} automatique de documents arabes bas{\'e} sur la technique {RST}
-Lingua-Align: An Experimental Toolbox for Automatic Tree-to-Tree Alignment
-Efficiently Extract Rrecurring Tree Fragments from Large Treebanks
-Extracting Phrase Patterns with Minimum Redundancy for Unsupervised Speaker Role Classification
-Data Collection and {IPR} in Multilingual Parallel Corpora. {D}utch Parallel Corpus
-Phrase-Based Transliteration with Simple Heuristics
-Acquisition de grammaires locales pour l{'}extraction de relations entre entit{\'e}s nomm{\'e}es
-A Supervised Learning based Chunking in {T}hai using Categorial Grammar
-Proceedings of the 2nd Workshop on Cognitive Aspects of the Lexicon
-Source reordering using {M}ax{E}nt classifiers and supertags
-Topic-Based {B}engali Opinion Summarization
-{KX}: A Flexible System for Keyphrase e{X}traction
-Experts{'} Retrieval with Multiword-Enhanced Author Topic Model
-Multilingual Summarization Evaluation without Human Models
-A Question-answer Distance Measure to Investigate {QA} System Progress
-Did Social Networks Shape Language Evolution? A Multi-Agent Cognitive Simulation
-Multiword Expressions as Discourse Relation Markers ({DRM}s)
-Focus Types and Subject-Object Asymmetry in {K}orean Case Ellipsis: A New Look at Focus Effects
-{NPCE}ditor: A Tool for Building Question-Answering Characters
-Acquisition and Annotation of {S}lovenian {L}ombard Speech Database
-An Annotation Scheme and Gold Standard for {D}utch-{E}nglish Word Alignment
-Fast-Champollion: A Fast and Robust Sentence Alignment Algorithm
-A New Approach to Improving Multilingual Summarization Using a Genetic Algorithm
-Semi-Automated Extension of a Specialized Medical Lexicon for {F}rench
-A Pipeline Approach to {C}hinese Personal Name Disambiguation
-Using Smaller Constituents Rather Than Sentences in Active Learning for {J}apanese Dependency Parsing
-{A}rabic Word Segmentation for Better Unit of Analysis
-{H}ungarian Corpus of Light Verb Constructions
-Evaluation Metrics For End-to-End Coreference Resolution Systems
-Automatic Evaluation of Linguistic Quality in Multi-Document Summarization
-Mining and Classification of Neologisms in {P}ersian Blogs
-Dependency Tree-based Sentiment Classification using {CRF}s with Hidden Variables
-Automatic Selectional Preference Acquisition for {L}atin Verbs
-A Morphological Lexicon for the {P}ersian Language
-Dialogue Act Modeling in a Complex Task-Oriented Domain
-Visual Information in Semantic Representation
-{NLP} Resources for the Analysis of Patient/Therapist Interviews
-Extraction of Disease-Treatment Semantic Relations from Biomedical Sentences
+Exodus - Exploring {SMT} for {EU} Institutions
+A Semi-Supervised Approach to Improve Classification of Infrequent Discourse Relations Using Feature Vector Extension
+The Impact of {A}rabic Morphological Segmentation on Broad-coverage {E}nglish-to-{A}rabic Statistical Machine Translation
+An Exploration of Mining Gene Expression Mentions and Their Anatomical Locations from Biomedical Text
+Heterogeneous Data Sources for Signed Language Analysis and Synthesis: The {S}ign{C}om Project
+Generating Referring Expressions with Reference Domain Theory
+Learning Better Monolingual Models with Unannotated Bilingual Text
+Exploring the Effectiveness of Lexical Ontologies for Modeling Temporal Relations with {M}arkov {L}ogic
+Using Domain Similarity for Performance Estimation
+Not All Seeds Are Equal: Measuring the Quality of Text Mining Seeds
+{M}anipuri-{E}nglish Bidirectional Statistical Machine Translation Systems using Morphology and Dependency Relations
+Identifying Multi-word Expressions by Leveraging Morphological and Syntactic Idiosyncrasy
+Combination of 3 Types of Speech Recognizers for Anaphora Resolution
+Machine Translation with Lattices and Forests
+Latent Mixture of Discriminative Experts for Multimodal Prediction Modeling
+Identifying Patterns for Unsupervised Grammar Induction
+A Comparison of Several Key Information Visualization Systems for Secondary Use of Electronic Health Record Content
+A Person-Name Filter for Automatic Compilation of Bilingual Person-Name Lexicons
+The Impact of Grammar Enhancement on Semantic Resources Induction
+美國專利書「獨立項數」之搭配詞初探: 以{L}exis{N}exis 法律資料庫為例 (Collocation Features of Independent Claim in {U}.{S}. Patent Documents: Information Retrieval from {L}exis{N}exis)
+Modeling and Encoding Traditional Wordlists for Machine Applications
+{T}ree{M}atch: A Fully Unsupervised {WSD} System Using Dependency Knowledge on a Specific Domain
+Feature Subset Selection Using Genetic Algorithm for Named Entity Recognition
+Balancing User Effort and Translation Error in Interactive Machine Translation via Confidence Measures
+Adjectifs relationnels et langue de sp{\'e}cialit{\'e} : v{\'e}rification d{'}une hypoth{\`e}se linguistique en corpus comparable m{\'e}dical
+Some Empirical Evidence for Annotation Noise in a Benchmarked Dataset
+{D}jangology: A Light-weight Web-based Tool for Distributed Collaborative Text Annotation
+Finding Appropriate Subset of Votes Per Classifier Using Multiobjective Optimization: Application to Named Entity Recognition
+Triplet-Based {C}hinese Word Sense Induction
 Automatic {P}ersian {W}ord{N}et Construction
-Automated Identification of Synonyms in Biomedical Acronym Sense Inventories
-A Fast Decoder for Joint Word Segmentation and {POS}-Tagging Using a Single Discriminative Model
-The Semantic Atlas: an Interactive Model of Lexical Representation
-Adaptive {C}hinese Word Segmentation with Online Passive-Aggressive Algorithm
-Multilingual Subjectivity: Are More Languages Better?
-Learning to Follow Navigational Directions
-Actes de la 17e conf{\'e}rence sur le Traitement Automatique des Langues Naturelles. Articles courts
-Joint Tokenization and Translation
-Towards {I}nternet-Age Pharmacovigilance: Extracting Adverse Drug Reactions from User Posts in Health-Related Social Networks
-Report of {NEWS} 2010 Transliteration Mining Shared Task
-Global Learning of Focused Entailment Graphs
-Determining Reliability of Subjective and Multi-label Emotion Annotation through Novel Fuzzy Agreement Measure
-Towards Relational {POMDP}s for Adaptive Dialogue Management
-Cheap Facts and Counter-Facts
-Does negation really matter?
-Semi-Supervised Recognition of Sarcasm in {T}witter and {A}mazon
-{H}aitian {C}reole: How to Build and Ship an {MT} Engine from Scratch in 4 days, 17 hours, {\&} 30 minutes
-The Importance of Rule Restrictions in {CCG}
-Bridging Topic Modeling and Personalized Search
+Recognition and extraction of definitional contexts in {S}panish for sketching a lexical network
+Expressive : G{\'e}n{\'e}ration automatique de parole expressive {\`a} partir de donn{\'e}es non linguistiques
+Fostering Digital Inclusion and Accessibility: The {P}or{S}imples project for Simplification of {P}ortuguese Texts
+Source reordering using {M}ax{E}nt classifiers and supertags
+Leveraging Hidden Dialogue State to Select Tutorial Moves
+Evaluating vendors for {MT} and post-editing at Avaya
+Automatic Discovery of Manner Relations and its Applications
+Extracting Social Networks from Literary Fiction
+A Tool for Feature-Structure Stand-Off-Annotation on Transcriptions of Spoken Discourse
+On the Role of Discourse Markers in Interactive Spoken Question Answering Systems
+Efficient Third-Order Dependency Parsers
+{A}rabic Parsing Using Grammar Transforms
+Emotions Evoked by Common Words and Phrases: Using {M}echanical {T}urk to Create an Emotion Lexicon
+{A}rabic Word Segmentation for Better Unit of Analysis
+{UTDM}et: Combining {W}ord{N}et and Corpus Data for Argument Coercion Detection
+The Karlsruhe Institute for Technology Translation System for the {ACL}-{WMT} 2010
+Phrase Clustering for Smoothing {TM} Probabilities - or, How to Extract Paraphrases from Phrase Tables
+Jointly Identifying Entities and Extracting Relations in Encyclopedia Text via A Graphical Model Approach
+A Semi-Supervised Key Phrase Extraction Approach: Learning from Title Phrases through a Document Semantic Network
 Tools for Collecting Speech Corpora via {M}echanical-{T}urk
-A Preliminary Work on {H}indi Causatives
-{TMX} Markup: A Challenge When Adapting {SMT} to the Localisation Environment
-Measuring the Non-compositionality of Multiword Expressions
-A Hybrid Model for Annotating Named Entity Training Corpora
-Comparing Spoken Language Route Instructions for Robots across Environment Representations
-Feature Selection for Fluency Ranking
-Building a Web Corpus of {C}zech
-What's great and what's not: learning to classify the scope of negation for improved sentiment analysis
-Open Entity Extraction from Web Search Query Logs
-Text Mining for Automatic Image Tagging
-Word Sense Induction {\&} Disambiguation Using Hierarchical Random Graphs
-On Automated Evaluation of Readability of Summaries: Capturing Grammaticality, Focus, Structure and Coherence
-Multi-Document Summarization via the Minimum Dominating Set
-{W}eb{L}icht: Web-Based {LRT} Services for {G}erman
+The {C}oncept{M}apper Approach to Named Entity Recognition
+{S}em{E}val-2010 Task 14: Word Sense Induction {\&}Disambiguation
+Improving Statistical Machine Translation with Monolingual Collocation
+{COLEPL} and {COLSLM}: An Unsupervised {WSD} Approach to Multilingual Lexical Substitution, Tasks 2 and 3 {S}em{E}val 2010
+Query Expansion based on Pseudo Relevance Feedback from Definition Clusters
+The Impact of Interpretation Problems on Tutorial Dialogue
+Proceedings of the 2nd Workshop on Cognitive Aspects of the Lexicon
+Using {SVM}s with the Command Relation features to identify negated events in biomedical literature
+{S}em{E}val-2010 Task 13: {T}emp{E}val-2
+Interactive Predictive Parsing using a Web-based Architecture
+Millstream Systems {--} a Formal Model for Linking Language Modules by Interfaces
+Joint Training and Decoding Using Virtual Nodes for Cascaded Segmentation and Tagging Tasks
+A Minimum Error Weighting Combination Strategy for {C}hinese Semantic Role Labeling
+Fast, Greedy Model Minimization for Unsupervised Tagging
+Constructing of an Ontology-based Lexicon for {B}ulgarian
+{MPOWERS}: a Multi Points Of {V}ie{W} Evaluation Refine Studio
+Improved Translation with Source Syntax Labels
+{NP} Alignment in Bilingual Corpora
+{MT} Postediting Showcase
+A Game-based Approach to Transcribing Images of Text
+{CRF}-based Experiments for Cross-Domain {C}hinese Word Segmentation at {CIPS}-{SIGHAN}-2010
+Resolving Speculation: {M}ax{E}nt Cue Classification and Dependency-Based Scope Rules
+The Study of Writing Variants in an Under-resourced Language: Some Evidence from Mobile N-Deletion in {L}uxembourgish
+Using {M}echanical {T}urk to Build Machine Translation Evaluation Sets
+Using {NLP} Methods for the Analysis of Rituals
+A Supervised Learning based Chunking in {T}hai using Categorial Grammar
+Term and Collocation Extraction by Means of Complex Linguistic Web Services
+Improved Unsupervised {POS} Induction through Prototype Discovery
+Pre-editing for Machine Translation
+Creating and evaluating a consensus for negated and speculative words in a {S}wedish clinical corpus
+Automatic Evaluation of Topic Coherence
+Pattern-Based Extraction of Negative Polarity Items from Dependency-Parsed Text
+Meta-Knowledge Annotation of Bio-Events
+Bootstrapping Named Entity Extraction for the Creation of Mobile Services
+Automated Skimming System in Response to Questions for {N}on{V}isual Readers
+Streaming First Story Detection with application to {T}witter
+Exploring Dialect Phonetic Variation Using {PARAFAC}
+Identifying and Ranking Topic Clusters in the Blogosphere
+Exploiting Social {Q}{\&}{A} Collection in Answering Complex Questions
+Annotation Scheme and Gold Standard for {D}utch Subjective Adjectives
+Enhancing Cross Document Coreference of Web Documents with Context Similarity and Very Large Scale Text Categorization
+Fault-Tolerant Learning for Term Extraction
+Coling 2010: Posters
+{T}witter in Mass Emergency: What {NLP} Can Contribute
+The Color of Emotions in Texts
+Contextual Recommendation based on Text Mining
+Towards an Integrated Architecture for Composite Language Services and Multiple Linguistic Processing Components
+Tree Topological Features for Unlexicalized Parsing
+{R}elax{C}or: A Global Relaxation Labeling Approach to Coreference Resolution
+Exploitation de Wikip{\'e}dia pour l{'}Enrichissement et la Construction des Ressources Linguistiques
+Using f{MRI} activation to conceptual stimuli to evaluate methods for extracting conceptual representations from corpora
+Classification of Prosodic Events using Quantized Contour Modeling
+結合{HMM} 頻譜模型與{ANN} 韻律模型之國語語音合成系統 (A {M}andarin Speech Synthesis System Combining {HMM} Spectrum Model and {ANN} Prosody Model) [In {C}hinese]
+Using an Online Tool for the Documentation of {E}do Language
+Paraphrase Alignment for Synonym Evidence Discovery
+台灣學生英文寫作冠詞錯誤分析 ({E}nglish article errors in {T}aiwanese college students{'} {EFL} writing)
+Corpus Aligner ({C}or{A}l) Evaluation on {E}nglish-{C}roatian Parallel Corpora
+{S}quibs: An Asymptotic Model for the {E}nglish Hapax/Vocabulary Ratio
+R{\'e}sum{\'e} automatique de documents arabes bas{\'e} sur la technique {RST}
+Engineering Linguistic Creativity: Bird Flight and Jet Planes
+{H}ungarian Corpus of Light Verb Constructions
+Towards an Inventory of {E}nglish Verb Argument Constructions
+Proceedings of the {NAACL} {HLT} 2010 Demonstration Session
+Computer Assisted Semantic Annotation in the {D}utch{S}em{C}or Project
+A Multi-Pass Sieve for Coreference Resolution
+{F}r{AG}, a Hybrid Constraint Grammar Parser for {F}rench
+Evaluating the Impact of Some Linguistic Information on the Performances of a Similarity-based and Translation-oriented Word-Sense Disambiguation Method
 A Flexible Representation of Heterogeneous Annotation Data
-Reconstruction of Semantic Relationships from Their Projections in Biomolecular Domain
+Data Issues in {E}nglish-to-{H}indi Machine Translation
+To Cache or Not To Cache? Experiments with Adaptive Models in Statistical Machine Translation
+Discourse Relation Configurations in {T}urkish and an Annotation Environment
+An Double Hidden {HMM} and an {CRF} for Segmentation Tasks with {P}inyin{'}s Finals
+The Method of Improving the Specific Language Focused Crawler
+Lexical Semantics-Syntactic Model for Defining and Subcategorizing Attribute Noun Class
+The {NOMCO} Multimodal Nordic Resource - Goals and Characteristics
+Enhanced Word Decomposition by Calibrating the Decision Threshold of Probabilistic Models and Using a Model Ensemble
+Interpreting Pointing Gestures and Spoken Requests {--} A Probabilistic, Salience-based Approach
+Densid{\'e}es : calcul automatique de la densit{\'e} des id{\'e}es dans un corpus oral
+An extractive supervised two-stage method for sentence compression
+Latent-Descriptor Clustering for Unsupervised {POS} Induction
+Extracting Glosses to Disambiguate Word Senses
+Foreign Media Collaboration Framework ({FMCF})
+Predicting the Semantic Compositionality of Prefix Verbs
+From {XML} to {XML}: The Why and How of Making the Biodiversity Literature Accessible to Researchers
+A Method for Automatically Generating a Mediatory Summary to Verify Credibility of Information on the Web
+Book Review: Machine-Aided Linguistic Discovery: An Introduction and Some Examples by Vladimir Pericliev
+Lingua-Align: An Experimental Toolbox for Automatic Tree-to-Tree Alignment
+Coling 2010: Demonstrations
+Using Sentence Type Information for Syntactic Category Acquisition
+鑑別式語言模型於語音辨識結果重新排序之研究 (Exploiting Discriminative Language Models for Reranking Speech Recognition Hypotheses) [In {C}hinese]
+Explore the Structure of Social Tags by Subsumption Relations
+A Snack Implementation and Tcl/Tk Interface to the Fundamental Frequency Variation Spectrum Algorithm
+Dynamic Adaptation in Dialog Systems
+How to Drink from a Fire Hose: One Person Can Annoscribe One Million Utterances in One Month
+Identifying Functional Relations in Web Text
+D{\'e}tection hors contexte des {\'e}motions {\`a} partir du contenu linguistique d{'}{\'e}nonc{\'e}s oraux : le syst{\`e}me {E}mo{L}ogus
+The Importance of Rule Restrictions in {CCG}
+Comparing Rating Scales and Preference Judgements in Language Evaluation
+A Multi-Domain Web-Based Algorithm for {POS} Tagging of Unknown Words
+Proceedings of the 2010 Named Entities Workshop
+A hybrid word alignment approach to improve translation lexicons with compound words and idiomatic expressions
+Distributional Memory: A General Framework for Corpus-Based Semantics
+Evaluation of Textual Knowledge Acquisition Tools: a Challenging Task
+Proceedings of the {ACL} 2010 Conference Short Papers
+Compositional Operations of {M}andarin {C}hinese Perception Verb {``}k{\`a}n{''}: A {G}enerative {L}exicon Approach
+Active Learning for Constrained {D}irichlet Process Mixture Models
+Building a Gold Standard for Event Detection in {C}roatian
+Computational psycholinguistics
+Automatic and Human Evaluation Study of a Rule-based and a Statistical {C}atalan-{S}panish Machine Translation Systems
+A Discriminative Latent Variable-Based {``}{DE}{''} Classifier for {C}hinese-{E}nglish {SMT}
+Anatomie des structures {\'e}num{\'e}ratives
+{E}moti{B}log: A Finer-Grained and More Precise Learning of Subjectivity Expression Models
+Efficient Minimal Perfect Hash Language Models
+Choosing the Right Evaluation for Machine Translation: an Examination of Annotator and Automatic Metric Performance on Human Judgment Tasks
+Combining Constituent and Dependency Syntactic Views for {C}hinese Semantic Role Labeling
+A General Method for Creating a Bilingual Transliteration Dictionary
+Proceedings of the {ACL} 2010 System Demonstrations
+Filling Knowledge Gaps in Text for Machine Reading
+Near-synonym Lexical Choice in Latent Semantic Space
+A Hybrid Approach to Utilize Rhetorical Relations for Blog Summarization
+Construction of Back-Channel Utterance Corpus for Responsive Spoken Dialogue System Development
+A Corpus for Evaluating Semantic Multilingual Web Retrieval Systems: The Sense Folder Corpus
+Crowdsourcing and language studies: the new generation of linguistic data
+Word Sense Induction using Cluster Ensemble
+{LDA} Based Similarity Modeling for Question Answering
+Eliminating Redundancy by Spectral Relaxation for Multi-Document Summarization
+A Comparative Study on Ranking and Selection Strategies for Multi-Document Summarization
