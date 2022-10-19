@@ -1,0 +1,57 @@
+Afar
+Akan
+Amazigh
+Awadhi
+Bamanankan
+Banjar
+Bhojpuri
+Bikol
+Bugis
+Chichewa
+Dagbani
+Dinka
+egyptian arabic
+Fulah
+Ganda
+Gilaki
+Igbo
+Ilocano
+Kapampangan
+Kashmiri
+Kinyarwanda
+Konkani
+kurdish (sorani)
+Limburgish
+Lingala
+Maithili
+Meitei
+moroccan Arabic
+Northern Sotho
+Nuosu
+Odia
+Oshiwambo
+Pangasinan
+Quechua
+Rundi
+Sango
+Santhali
+Saraiki
+Setswana
+Shan
+Shona
+Southern Min
+Southern Sotho
+Swati
+Tibetan
+Tigrigna
+Tok Pisin
+Tsonga
+Tumbuka
+Turkmen
+Venda
+Waray
+Western Armenian
+Wolof
+Zhuang
+Zulu
+Éwé
