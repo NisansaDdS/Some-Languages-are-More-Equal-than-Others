@@ -19,11 +19,10 @@ Please use `Generate Diagrams.ipynb` as the main file
 
 ## Citing this work
 
-    @misc{ranathunga2022languages,
-       title={Some Languages are More Equal than Others: Probing Deeper into the Linguistic Disparity in the NLP World},
-       author={Surangika Ranathunga and Nisansa de Silva},
-       year={2022},
-       eprint={2210.08523},
-       archivePrefix={arXiv},
-       primaryClass={cs.CL}
+    @inproceedings{ranathunga2022some,
+        title={Some Languages are More Equal than Others: Probing Deeper into the Linguistic Disparity in the NLP World},
+        author={Ranathunga, Surangika and de Silva, Nisansa},
+        booktitle={Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing},
+        pages={823--848},
+        year={2022}
     }
