@@ -1,200 +1,200 @@
-調變頻譜分解技術於強健語音辨識之研究 (Investigating Modulation Spectrum Factorization Techniques for Robust Speech Recognition) [In {C}hinese]
-Referential Translation Machines for Predicting Translation Quality and Related Statistics
-Reading Documents for {B}ayesian Online Change Point Detection
-{CG}-3 {---} Beyond Classical Constraint Grammar
-A Strong Lexical Matching Method for the Machine Comprehension Test
-Computational Constancy Measures of {T}exts{---}{Y}ule{'}s K and R{\'e}nyi{'}s Entropy
-From Adjective Glosses to Attribute Concepts: Learning Different Aspects That an Adjective Can Describe
-Recherche de motifs de graphe en ligne
+Conditional Random Fields for Identifying Appropriate Types of Support for Propositions in Online User Comments
+{M}ixed{E}motions: Social Semantic Emotion Analysis for Innovative Multilingual Big Data Analytics Markets
+Using prosodic annotations to improve coreference resolution of spoken text
+Towards Developing an Annotation Scheme for Depressive Disorder Symptoms: A Preliminary Study using {T}witter Data
+Emotion and Inner State Adverbials in {R}ussian
+{C}o{M}i{C}: Adapting a Short Answer Assessment System for Answer Selection
+Enhancing the Inside-Outside Recursive Neural Network Reranker for Dependency Parsing
+Computational cognitive modeling of inflectional verb morphology in {S}panish-speakers for the characterization and diagnosis of {A}lzheimer{'}s Disease
+{B}ekli:A Simple Approach to {T}witter Text Normalization.
+{R}ose{M}erry: A Baseline Message-level Sentiment Classification System
+Joint Embedding of Query and Ad by Leveraging Implicit Feedback
+The {DCU} Discourse Parser for Connective, Argument Identification and Explicit Sense Classification
+Event Extraction as Frame-Semantic Parsing
+Learning to Recognize Affective Polarity in Similes
+{\'E}valuation intrins{\`e}que et extrins{\`e}que du nettoyage de pages Web
+Evaluating Neural Machine Translation in {E}nglish-{J}apanese Task
+Non-distributional Word Vector Representations
+Generative Incremental Dependency Parsing with Neural Networks
+{USAAR}-{WLV}: Hypernym Generation with Deep Neural Nets
+Book Review: Language Processing with {P}erl and {P}rolog: Theories, Implemetation, and Application by Pierre {M}. Nugues
+Combining Relational and Distributional Knowledge for Word Sense Disambiguation
+Using on-line available sources of bilingual information for word-level machine translation quality estimation
+An Incremental Turn-Taking Model with Active System Barge-in for Spoken Dialog Systems
+Lexicalization and Generative Power in {CCG}
+{AIDA}2: A Hybrid Approach for Token and Sentence Level Dialect Identification in {A}rabic
+{NCSU}{\_}{SAS}{\_}{SAM}: Deep Encoding and Reconstruction for Normalization of Noisy Text
+Joint {A}* {CCG} Parsing and Semantic Role Labelling
+Using Combined Lexical Resources to Identify Hashtag Types
 {K}e{LP}: a Kernel-based Learning Platform for Natural Language Processing
-Neural Responding Machine for Short-Text Conversation
-Document-Level Machine Translation Evaluation with Gist Consistency and Text Cohesion
-{B}lu{L}ab: Temporal Information Extraction for the 2015 Clinical {T}emp{E}val Challenge
-Multi-label Text Categorization with Joint Learning Predictions-as-Features Method
-Reconciling Heterogeneous Descriptions of Language Resources
-{Y}andex.{T}ranslate approach to the translation of {T}urkic languages [abstract
-{IITP}: Hybrid Approach for Text Normalization in {T}witter
-Sentence-level Emotion Classification with Label and Context Dependence
-Detecting Content-Heavy Sentences: A Cross-Language Case Study
-Computational Linguistics, Volume 41, Issue 3 - September 2015
-A preliminary study on similarity-preserving digital book identifiers
-Translating Electronic Health Record Notes from {E}nglish to {S}panish: A Preliminary Study
-Development of a {F}ilipino-to-{E}nglish bidirectional statistical machine translation system that dynamically updates via user feedback
-Parsing Learner Text: to Shoehorn or not to Shoehorn
-Semantic Complexity of Quantifiers and Their Distribution in Corpora
-Mining and Ranking Biomedical Synonym Candidates from {W}ikipedia
-Sparse, Contextually Informed Models for Irony Detection: Exploiting User Communities, Entities and Sentiment
-Discourse and Document-level Information for Evaluating Language Output Tasks
-Correction Annotation for Non-Native {A}rabic Texts: Guidelines and Corpus
-A Domain Agnostic Approach to Verbalizing n-ary Events without Parallel Corpora
-Initiatives of the {J}apan Patent Office
-How few is too few? Determining the minimum acceptable number of {LSA} dimensions to visualise text cohesion with Lex
-Catena Operations for Unified Dependency Analysis
-Better Summarization Evaluation with Word Embeddings for {ROUGE}
-Harnessing Context Incongruity for Sarcasm Detection
-Adverse Drug Event classification of health records using dictionary based pre-processing and machine learning
-Named Entity Recognition of Persons{'} Names in {A}rabic Tweets
-Isolated Word Recognition System for {M}alayalam using Machine Learning
-節錄式語音文件摘要使用表示法學習技術 (Extractive Spoken Document Summarization with Representation Learning Techniques) [In {C}hinese]
-Part-of-speech Taggers for Low-resource Languages using {CCA} Features
-Thread-Level Information for Comment Classification in Community Question Answering
-Neural word embeddings with multiplicative feature interactions for tensor-based compositions
-At the Lexicon-Grammar Interface: The Case of Complex Predicates in the Functional Generative Description
-Empty Category Detection With Joint Context-Label Embeddings
-Detecting Translation Direction: A Cross-Domain Study
-Semantically Smooth Knowledge Graph Embedding
-Machine Translation for Multilingual Troubleshooting in the {IT} Domain: A Comparison of Different Strategies
-Social Media Predictive Analytics
-Centre Stage: How Social Network Position Shapes Linguistic Coordination
-Linking discourse modes and situation entity types in a cross-linguistic corpus study
-Automatic Classification of {W}ord{N}et Morphosemantic Relations
-Mixed domain vs. multi-domain statistical machine translation
-From {E}uropean {P}ortuguese to {P}ortuguese {S}ign {L}anguage
-Rapid {F}rame{N}et annotation of spoken conversation transcripts
-Model Adaptation for Personalized Opinion Analysis
-Fast and Large-scale Unsupervised Relation Extraction
-Generating and Evaluating Landmark-Based Navigation Instructions in Virtual Environments
-{G}host{W}riter: Using an {LSTM} for Automatic Rap Lyric Generation
-The {JAIST}-{UET}-{MITI} machine translation systems for {IWSLT} 2015
-Incremental Semantic Construction Using Normal Form {CCG} Derivation
-{V}3: Unsupervised Aspect Based Sentiment Analysis for {S}em{E}val2015 Task 12
-Bilingual Correspondence Recursive Autoencoder for Statistical Machine Translation
-A Context-Aware Topic Model for Statistical Machine Translation
-Improving Event Detection with Dependency Regularization
-{``}You{'}re Mr. Lebowski, {I}{'}m the Dude{''}: Inducing Address Term Formality in Signed Social Networks
-Natural Language Processing for Solving Simple Word Problems
-Non-linear Learning for Statistical Machine Translation
-{HLTC}-{HKUST}: A Neural Network Paraphrase Classifier using Translation Metrics, Semantic Roles and Lexical Similarity Features
-A Deep Architecture for Non-Projective Dependency Parsing
-Integrating a Large, Monolingual Corpus as Translation Memory into Statistical Machine translation
-From the Virtual to the {R}eal{W}orld: Referring to Objects in Real-World Spatial Scenes
-{UFPRS}heffield: Contrasting Rule-based and Support Vector Machine Approaches to Time Expression Identification in Clinical {T}emp{E}val
-A Supervised Semantic Parsing with Lexicon Extension and Syntactic Constraint
-Non-canonical language is not harder to annotate than canonical language
-Modeling Tweet Arrival Times using Log-{G}aussian Cox Processes
-{MT} quality estimation for e-commerce data
-Parser self-training for syntax-based machine translation
-Caract{\'e}riser les discours acad{\'e}miques et de vulgarisation : quelles propri{\'e}t{\'e}s ?
-Generating Image Descriptions with Gold Standard Visual Inputs: Motivation, Evaluation and Baselines
-Accurate Evaluation of Segment-level Machine Translation Metrics
-The 5th Workshop on {B}alto-{S}lavic Natural Language Processing
-Diamonds in the Rough: Event Extraction from Imperfect Microblog Data
-Low-Rank Tensors for Verbs in Compositional Distributional Semantics
-Deep Questions without Deep Understanding
-{S}em{E}val-2015 Task 15: A {CPA} dictionary-entry-building task
-Re-assessing the {WMT}2013 Human Evaluation with Professional Translators Trainees
-A survey of usage environment of machine translation by professional translators
-Automatic conversion of {I}ndian Language Morphological Processors into Grammatical Framework ({GF})
-Domain adaptation for social localisation-based {SMT}: a case study using the Trommons platform
-Enriching Interlinear Text using Automatically Constructed Annotators
-Detecting speculations, contrasts and conditionals in consumer reviews
-Invited Talk: The Case for {U}niversal {D}ependencies
+Unsupervised Decomposition of a Multi-Author Document Based on Naive-{B}ayesian Model
+Semi-supervised Dependency Parsing using Bilexical Contextual Features from Auto-Parsed Data
+The {IWSLT} 2015 Evaluation Campaign
+The role of artificially generated negative data for quality estimation of machine translation
+Adaptation par enrichissement terminologique en traduction automatique statistique fond{\'e}e sur la g{\'e}n{\'e}ration et le filtrage de bi-segments virtuels
+Apprentissage automatique d{'}un mod{\`e}le de r{\'e}solution de la cor{\'e}f{\'e}rence {\`a} partir de donn{\'e}es orales transcrites du fran{\c{c}}ais : le syst{\`e}me {CROC}
+基於貝氏定理自動分析語料庫與標定文步 (A {B}ayesian approach to determine move tags in corpus) [In {C}hinese]
+{L}sislif: Feature Extraction and Label Weighting for Sentiment Analysis in {T}witter
+A Survey of Current Datasets for Vision and Language Research
+Overview of the {DSL} Shared Task 2015
+The {NL}2{KR} Platform for building Natural Language Translation Systems
+{S}plusplus: A Feature-Rich Two-stage Classifier for Sentiment Analysis of Tweets
+Two-level Word Class Categorization Model in Analytic Languages and Its Implications for {POS} Tagging in {M}odern {C}hinese Corpora
+Named Entity Recognition for {A}rabic Social Media
+Shallow Training is cheap but is it good enough? Experiments with Medical Fact Coding
+Analysis of Dysarthric Speech using Distinctive Feature Recognition
+Cr{\'e}ation rapide et efficace d{'}un syst{\`e}me de d{\'e}sambigu{\"\i}sation lexicale pour une langue peu dot{\'e}e
+Linguistically Motivated Question Classification
+{ECNU}: Using Multiple Sources of {CQA}-based Information for Answers Selection and {YES}/{NO} Response Inference
+Identifying Argumentation Schemes in Genetics Research Articles
+How hard is this query? Measuring the Semantic Complexity of Schema-agnostic Queries
+Investigating the potential of post-ordering {SMT} output to improve translation quality
+Learning Word Reorderings for Hierarchical Phrase-based Statistical Machine Translation
+{VUA}-background : When to Use Background Information to Perform Word Sense Disambiguation
+Weakly Supervised Role Identification in Teamwork Interactions
+A Procedural Definition of Multi-word Lexical Units
+Proceedings of the International Conference Recent Advances in Natural Language Processing
+Storylines for structuring massive streams of news
+Evaluating the performance of Automated Text Scoring systems
+{NCU} {IISR} {E}nglish-{K}orean and {E}nglish-{C}hinese Named Entity Transliteration Using Different Grapheme Segmentation Approaches
+Embedding Methods for Fine Grained Entity Type Classification
+Collecting bilingual technical terms from patent families of character-segmented {C}hinese sentences and morpheme-segmented {J}apanese sentences
 Semantic Dependency Graph Parsing Using Tree Approximations
-Adapting Phrase-based Machine Translation to Normalise Medical Terms in Social Media Messages
-Rule-Based {W}eibo Messages Sentiment Polarity Classification towards Given Topics
-Matching Citation Text and Cited Spans in Biomedical Literature: a Search-Oriented Approach
-A Normalizer for {UGC} in {B}razilian {P}ortuguese
-The role of personality, age, and gender in tweeting about mental illness
-Modeling the interaction between sensory and affective meanings for detecting metaphor
-Mr. Bennet, his coachman, and the Archbishop walk into a bar but only one of them gets recognized: On The Difficulty of Detecting Characters in Literary Texts
-Unsupervised Morphology Induction Using Word Embeddings
-Automatic Claim Negation: Why, How and When
-Unsupervised Dependency Parsing: Let{'}s Use Supervised Parsers
-Motivating Personality-aware Machine Translation
+A Joint Model of Product Properties, Aspects and Ratings for Online Reviews
+Held-out versus Gold Standard: Comparison of Evaluation Strategies for Distantly Supervised Relation Extraction from {M}edline abstracts
+What{'}s in a Domain? Analyzing Genre and Topic Differences in Statistical Machine Translation
+M{\'e}thode semi-compositionnelle pour l{'}extraction de synonymes des termes complexes [Semi-compositional method for synonym extraction of complex terms]
+Rule-Based Pronominal Anaphora Treatment for Machine Translation
+{UNIBA}: Combining Distributional Semantic Models and Sense Distribution for Multilingual All-Words Sense Disambiguation and Entity Linking
+Automatic Detection of Miscommunication in Spoken Dialogue Systems
+{HANS}peller++: A Unified Framework for {C}hinese Spelling Correction
+The Second {QALB} Shared Task on Automatic Text Correction for {A}rabic
+hyp: A Toolkit for Representing, Manipulating, and Optimizing Hypergraphs
 Boosting {E}nglish-{C}hinese Machine Transliteration via High Quality Alignment and Multilingual Resources
-The Discovery of Natural Typing Annotations: User-produced Potential {C}hinese Word Delimiters
-A Refined End-to-End Discourse Parser
-Improving Distributed Representation of Word Sense via {W}ord{N}et Gloss Composition and Context Clustering
-Modelling situated human-robot interaction using {I}ris{TK}
-{E}stonian-{E}nglish Reversible Smart Phone Dictionary of Military Terms and Relevant Vocabulary
-Natural Language Processing for Dialectical {A}rabic: A Survey
-A Personal Storytelling about Your Favorite Data
-{M}ulti{G}ran{CNN}: An Architecture for General Matching of Text Chunks on Multiple Levels of Granularity
-Finding Names in Trove: Named Entity Recognition for {A}ustralian Historical Newspapers
-Reinforcement Learning of Multi-Issue Negotiation Dialogue Policies
-A Unified Learning Framework of Skip-Grams and Global Vectors
-Bilingual Word Representations with Monolingual Quality in Mind
-Extra{\c{c}}{\~a}o de Alvos em Coment{\'a}rios de Not{\'\i}cias em Portugu{\^e}s baseada na Teoria da Centraliza{\c{c}}{\~a}o (Target Extraction in News Reviews in {P}ortuguese based on Centering Theory)
-Segmentation et Titrage Automatique de Journaux T{\'e}l{\'e}vis{\'e}s
-From a Distance: Using Cross-lingual Word Alignments for Noun Compound Bracketing
-Multiview {LSA}: Representation Learning via Generalized {CCA}
-{POS} Tagging of {H}indi-{E}nglish Code Mixed Text from Social Media: Some Machine Learning Experiments
-Resolving Spatial References using Crowdsourced Geographical Data
-The {S}o{NLP}-{DP} System in the {C}o{NLL}-2015 shared Task
-Towards Multilingual Event Extraction Evaluation: A Case Study for the {C}zech Language
-Deep Multilingual Correlation for Improved Word Embeddings
-Building a Lexicon of Formulaic Language for Language Learners
-{S}em{E}val-2015 Task 14: Analysis of Clinical Text
-One Vector is Not Enough: Entity-Augmented Distributed Semantics for Discourse Relations
-Similarity Metrics for Clustering {P}ub{M}ed Abstracts for Evidence Based Medicine
-{H}eidel{T}oul: A Baseline Approach for Cross-document Event Ordering
-Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)
-A Weighted Combination of Text and Image Classifiers for User Gender Inference
-Predicting Ratings for New Movie Releases from {T}witter Content
-Streamlining Translation Workflows with {S}tyle{S}corer
-D{\'e}classer les voisins non s{\'e}mantiques pour am{\'e}liorer les th{\'e}saurus distributionnels
-On the Impact of {T}witter-based Health Campaigns: A Cross-Country Analysis of Movember
-Pronoun Translation and Prediction with or without Coreference Links
-A {DG} Account of the Descriptive and Resultative de-Constructions in {C}hinese
-Unsupervised and Lightly Supervised Part-of-Speech Tagging Using Recurrent Neural Networks
-Cross-Document Co-Reference Resolution using Sample-Based Clustering with Knowledge Enrichment
-Exploring Word Embedding for Drug Name Recognition
-{C}hinese Semantic Role Labeling using High-quality Syntactic Knowledge
-Parsing to Noncrossing Dependency Graphs
-Anotando um Corpus de Not{\'\i}cias para a An{\'a}lise de Sentimentos: um Relato de Experi{\^e}ncia (Annotating a corpus of News for Sentiment Analysis: An Experience Report)
-Document Level Time-anchoring for {T}ime{L}ine Extraction
-7x1-{PT}: um Corpus extra{\'\i}do do {T}witter para An{\'a}lise de Sentimentos em L{\'\i}ngua Portuguesa (7x1-{PT}: a Corpus extracted from {T}witter for Sentiment Analysis in {P}ortuguese Language)
-Discovering Causal Relations in Textual Instructions
-Towards Taxonomy of Errors in Chat-oriented Dialogue Systems
-Effective Feature Integration for Automated Short Answer Scoring
-A Hierarchical Neural Autoencoder for Paragraphs and Documents
-Learning Translation Models from Monolingual Continuous Representations
-Topic Model for Identifying Suicidal Ideation in {C}hinese Microblog
-The {KIT}-{LIMSI} Translation System for {WMT} 2015
-Modeling Word Forms Using Latent Underlying Morphs and Phonology
-Problems in Current Text Simplification Research: New Data Can Help
-A Compositional and Interpretable Semantic Space
-Morphological Segmentation and {OPUS} for {F}innish-{E}nglish Machine Translation
-Summarization of Multi-Document Topic Hierarchies using Submodular Mixtures
-A Conventional Orthography for {A}lgerian {A}rabic
-{C}hinese Spelling Check System Based on N-gram Model
-Annotation and Extraction of Multiword Expressions in {T}urkish Treebanks
-Proceedings of the Sixth International Workshop on Health Text Mining and Information Analysis
-Translating {I}talian to {LIS} in the Rail Stations
-Proceedings of the 2nd Workshop on Computational Linguistics and Clinical Psychology: From Linguistic Signal to Clinical Reality
-{LR} Parsing for {LCFRS}
+Multiple System Combination for Transliteration
+Implicit Entity Recognition in Clinical Documents
+Automatic Detection of Answers to Research Questions from {M}edline Abstracts
+Speech and language technologies for the automatic monitoring and training of cognitive functions
+Proceedings of the Fourth Workshop on Hybrid Approaches to Translation ({H}y{T}ra)
+Identification and Classification of Emotional Key Phrases from Psychological Texts
 A Linear-Time Transition System for Crossing Interval Trees
-A Web Application for Automated Dialect Analysis
-Encoding Source Language with Convolutional Neural Network for Machine Translation
-The Annotation of Measure Expressions in {ISO} Standards
-The {E}dinburgh/{JHU} Phrase-based Machine Translation Systems for {WMT} 2015
-Proceedings of the 9th {SIGHUM} Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities ({L}a{T}e{CH})
-Gappy Pattern Matching on {GPU}s for On-Demand Extraction of Hierarchical Translation Grammars
-Multiple Many-to-Many Sequence Alignment for Combining String-Valued Variables: A {G}2{P} Experiment
-{OMWE}dit - The Integrated Open Multilingual {W}ordnet Editing System
-Design of a Learner Corpus for Listening and Speaking Performance
-Knowledge Base Unification via Sense Embeddings and Disambiguation
-Integrating Query Performance Prediction in Term Scoring for Diachronic Thesaurus
-If all you have is a bit of the {B}ible: Learning {POS} taggers for truly low-resource languages
-Linguistic Template Extraction for Recognizing Reader-Emotion and Emotional Resonance Writing Assistance
-Multilingual discriminative lexicalized phrase structure parsing
-Identifying Patterns For Short Answer Scoring Using Graph-based Lexico-Semantic Text Matching
-{H}im{L} (Health in my Language)
-Proceedings of the Tenth Workshop on Statistical Machine Translation
-Across Languages and Genres: Creating a Universal Annotation Scheme for Textual Relations
-The {NAIST} {E}nglish speech recognition system for {IWSLT} 2015
-Cognate Identification using Machine Translation
-Robust Morphological Tagging with Word Representations
-The Karlsruhe Institute of Technology Translation Systems for the {WMT} 2015
-Poor man{'}s lemmatisation for automatic error classification
-Dialogue focus tracking for zero pronoun resolution
-Tackling Sparsity, the Achilles Heel of Social Networks: Language Model Smoothing via Social Regularization
-A Simple Word Embedding Model for Lexical Substitution
-Expanding the horizons: adding a new language to the news personalization system
-Actes de la 22e conf{\'e}rence sur le Traitement Automatique des Langues Naturelles. Articles longs
-Proceedings of the 4th Workshop on Linked Data in Linguistics: Resources and Applications
-Unifying {B}ayesian Inference and Vector Space Models for Improved Decipherment
-Auto-Sizing Neural Networks: With Applications to n-gram Language Models
-{UA}lacant word-level machine translation quality estimation system at {WMT} 2015
-Distributed Word Representations Improve {NER} for e-Commerce
-Learning Cross-lingual Word Embeddings via Matrix Co-factorization
+One Tense per Scene: Predicting Tense in {C}hinese Conversations
+{JAIST}: Combining multiple features for Answer Selection in Community Question Answering
+Combining Mention Context and Hyperlinks from {W}ikipedia for Named Entity Disambiguation
+Productivity promotion strategies for collaborative translation on huge volume technical documents
+Multi-domain Dialog State Tracking using Recurrent Neural Networks
+A New Approach to Automated Text Readability Classification based on Concept Indexing with Integrated Part-of-Speech n-gram Features
+Best Practices for Crowdsourcing Dialectal {A}rabic Speech Transcription
+Using Tweets to Help Sentence Compression for News Highlights Generation
+Input Seed Features for Guiding the Generation Process: A Statistical Approach for {S}panish
+Multi-Task Word Alignment Triangulation for Low-Resource Languages
+A Historical Overview of the Status of Function Words in Dependency Grammar
+Dependency Parsing with Compression Rules
+{YADTK} : Une plateforme open-source {\`a} base de r{\`e}gles pour d{\'e}velopper des syst{\`e}mes de dialogue oral
+Inducing Lexical Style Properties for Paraphrase and Genre Differentiation
+Joint prediction in {MST}-style discourse parsing for argumentation mining
+A Method of Accounting Bigrams in Topic Models
+{S}wiss-Chocolate: Combining Flipout Regularization and Random Forests with Artificially Built Subsystems to Boost Text-Classification for Sentiment
+Reversibility reconsidered: finite-state factors for efficient probabilistic sampling in parsing and generation
+{S}e{NTU}: Sentiment Analysis of Tweets by Combining a Rule-based Classifier with Supervised Learning
+Multi-Objective Optimization for the Joint Disambiguation of Nouns and Named Entities
+Proceedings of the 2nd Workshop on Computational Linguistics and Clinical Psychology: From Linguistic Signal to Clinical Reality
+Domain-Specific Paraphrase Extraction
+A fuzzier approach to machine translation evaluation: A pilot study on post-editing productivity and automated metrics in commercial settings
+Introduction to {SIGHAN} 2015 Bake-off for {C}hinese Spelling Check
+Using on-line available sources of bilingual information for word-level machine translation quality estimation
+Spinning Straw into Gold: Using Free Text to Train Monolingual Alignment Models for Non-factoid Question Answering
+Leveraging Small Multilingual Corpora for {SMT} Using Many Pivot Languages
+Understanding Urban Land Use through the Visualization of Points of Interest
+{M}ulti{G}ran{CNN}: An Architecture for General Matching of Text Chunks on Multiple Levels of Granularity
+Improved search strategy for interactive predictions in computer-assisted translation
+Bridging the gap between sign language machine translation and sign language animation using sequence classification
+Hashtag Recommendation Using {D}irichlet Process Mixture Models Incorporating Types of Hashtags
+{S}quibs: When the Whole Is Not Greater Than the Combination of Its Parts: A {``}Decompositional{''} Look at Compositional Distributional Semantics
+{S}em{E}val-2015 Task 14: Analysis of Clinical Text
+Translating {I}talian to {LIS} in the Rail Stations
+Effects of Graph Generation for Unsupervised Non-Contextual Single Document Keyword Extraction
+The Impact of Multiword Expression Compositionality on Machine Translation Evaluation
+{T}erm{L}is : un contexte d{'}information logique pour des ressources terminologiques
+{HEADS}: Headline Generation as Sequence Prediction Using an Abstract Feature-Rich Space
+Improving Translation Memory Matching through Clause Splitting
+A Discriminative Model for Perceptually-Grounded Incremental Reference Resolution
+Utility-based evaluation metrics for models of language acquisition: A look at speech segmentation
+Context-Dependent Automatic Response Generation Using Statistical Machine Translation Techniques
+Extraction automatique de relations s{\'e}mantiques dans les d{\'e} finitions : approche hybride, construction d{'}un corpus de relations s{\'e}mantiques pour le fran{\c{c}}ais
+{DFKI}: Multi-objective Optimization for the Joint Disambiguation of Entities and Nouns {\&} Deep Verb Sense Disambiguation
+Talking to the crowd: What do people react to in online discussions?
+{E}dinburgh{'}s Syntax-Based Systems at {WMT} 2015
+Smart Computer Aided Translation Environment - {SCATE}
+Towards Flexible, Small-Domain Surface Generation: Combining Data-Driven and Grammatical Approaches
+{T}ra{MOOC}: Translation for Massive Open Online Courses
+A {B}ayesian Model for Joint Learning of Categories and their Features
+Building hybrid machine translation systems by using an {EBMT} preprocessor to create partialtranslations
+Semantics-based pretranslation for {SMT} using fuzzy matches
+What Matters Most in Morphologically Segmented {SMT} Models?
+Generating R{\'e}cit from Sensor Data: Evaluation of a Task Model for Story Planning and Preliminary Experiments with {GPS} Data
+{MT} Tuning on {RED}: A Dependency-Based Evaluation Metric
+A Convolution Kernel Approach to Identifying Comparisons in Text
+Using Multilingual Topic Models for Improved Alignment in {E}nglish-{H}indi {MT}
+Creating a rule based system for text mining of {N}orwegian breast cancer pathology reports
+Understanding Infants{'} Language Development in Relation to Levels of Consciousness: An Approach in Building up an Agent-based Model
+Modeling the interaction between sensory and affective meanings for detecting metaphor
+Discourse Relation Recognition by Comparing Various Units of Sentence Expression with Recursive Neural Network
+Six Good Predictors of Autistic Text Comprehension
+Harnessing Context Incongruity for Sarcasm Detection
+Multi-Task Learning for Multiple Language Translation
+Belief Tracking with Stacked Relational Trees
+Evaluating a Machine Translation System in a Technical Support Scenario
+Bag-of-Words Forced Decoding for Cross-Lingual Information Retrieval
+Efficient Inner-to-outer Greedy Algorithm for Higher-order Labeled Dependency Parsing
+Modeling the Statistical Idiosyncrasy of Multiword Expressions
+Everyone Likes Shopping! Multi-class Product Categorization for e-Commerce
+From {E}uropean {P}ortuguese to {P}ortuguese {S}ign {L}anguage
+Learning a Compositional Semantics for {F}reebase with an Open Predicate Vocabulary
+Fusion of Compositional Network-based and Lexical Function Distributional Semantic Models
+{S}em{E}val-2015 Task 12: Aspect Based Sentiment Analysis
+Exploiting Task-Oriented Resources to Learn Word Embeddings for Clinical Abbreviation Expansion
+Machine Comprehension with Discourse Relations
+{NEED}4{T}weet: A Twitterbot for Tweets Named Entity Extraction and Disambiguation
+Distributed Representations of Words and Documents for Discriminating Similar Languages
+{W}ebis: An Ensemble for {T}witter Sentiment Detection
+Diachronic Trends in Word Order Freedom and Dependency Length in Dependency-Annotated Corpora of {L}atin and {A}ncient {G}reek
+Machine translation for enterprise technical communications {--} a journey of discovery
+Recognizing Complex Negation on {T}witter
+Using Zero-Resource Spoken Term Discovery for Ranked Retrieval
+Improving cross-domain dependency parsing with dependency-derived clusters
+{J}apanese news simplification: tak design, data set construction, and analysis of simplified text
+Synthesizing and Evaluating Animations of {A}merican {S}ign {L}anguage Verbs Modeled from Motion-Capture Data
+{J}apanese controlled language rules to improve machine translatability of municipal documents
+Unsupervised Learning and Modeling of Knowledge and Intent for Spoken Dialogue Systems
+From {DB}pedia and {W}ord{N}et hierarchies to {L}inked{I}n and {T}witter
+{JEAM}: A Novel Model for Cross-Domain Sentiment Classification Based on Emotion Analysis
+Construction et maintenance d{'}une ressource lexicale bas{\'e}es sur l{'}usage
+Context-Dependent Translation Selection Using Convolutional Neural Network
+Recognizing Textual Entailment using Dependency Analysis and Machine Learning
+Investigations on Phrase-based Decoding with Recurrent Neural Network Language and Translation Models
+Semantic Role Labeling Improves Incremental Parsing
+Extracting Semantic Frames using hfst-pmatch
+Boosting Named Entity Recognition with Neural Character Embeddings
+{\'E}tat de l{'}art : analyse des conversations {\'e}crites en ligne porteuses de demandes d{'}assistance en termes d{'}actes de dialogue
+A Vector Space Approach for Aspect Based Sentiment Analysis
+A {C}homsky-Sch{\"u}tzenberger Representation for Weighted Multiple Context-free Languages
+Generating Referential Descriptions Involving Relations by a Best-First Searching Procedure {--} A System Demo
+Learning to parse with {IAA}-weighted loss
+Online Readability and Text Complexity Analysis with {T}ext{E}valuator
+What Your Username Says About You
+Joint Event Trigger Identification and Event Coreference Resolution with Structured Perceptron
+Splitting Compounds by Semantic Analogy
+{MT} quality estimation for e-commerce data
+Bilingually motivated segmentation and generation of word translations using relatively small translation data sets
+{``}A Spousal Relation Begins with a Deletion of engage and Ends with an Addition of divorce{''}: Learning State Changing Verbs from {W}ikipedia Revision History
+Learning Timeline Difference for Text Categorization
+Proceedings of the 1st Workshop on Semantics-Driven Statistical Machine Translation ({S}2{MT} 2015)
+Stacking or Supertagging for Dependency Parsing {--} What{'}s the Difference?
+Distributional Neural Networks for Automatic Resolution of Crossword Puzzles
+Semi-Supervised Bootstrapping of Relationship Extractors with Distributional Semantics
+{RE}xtractor: a Robust Information Extractor
+Real-time Detection and Sorting of News on Microblogging Platforms
+Learning the Semantics of Manipulation Action
+An Optimal Quadratic Approach to Monolingual Paraphrase Alignment
+調變頻譜分解技術於強健語音辨識之研究 (Investigating Modulation Spectrum Factorization Techniques for Robust Speech Recognition) [In {C}hinese]
