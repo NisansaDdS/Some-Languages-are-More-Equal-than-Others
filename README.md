@@ -26,3 +26,6 @@ Please use `Generate Diagrams.ipynb` as the main file
         pages={823--848},
         year={2022}
     }
+## License
+
+The code and data are released under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).  By using this code and data, you are agreeing to its usage terms.
