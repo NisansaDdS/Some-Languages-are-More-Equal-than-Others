@@ -1,6 +1,6 @@
 # Some Languages are More Equal than Others
 
-This repository contains code and input data to re-create the results and visualizations included in [Some Languages are More Equal than Others : Probing Deeper into the Linguistic Disparity in the NLP World](https://arxiv.org/abs/2210.08523), to be presented at [AACL 2022](https://www.aacl2022.org/).
+This repository contains code and input data to re-create the results and visualizations included in [Some Languages are More Equal than Others : Probing Deeper into the Linguistic Disparity in the NLP World](https://aclanthology.org/2022.aacl-main.62/), to be presented at [AACL 2022](https://aclanthology.org/events/aacl-2022/).
 
 **********************************************************
 
